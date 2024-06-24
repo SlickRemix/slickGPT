@@ -1,0 +1,93 @@
+body {
+    background: #202123;
+}
+.header {
+    color: #ececf1;
+}
+.tabcontent p {
+    color: #c6c6c6;
+}
+.container input {
+    color: #ececf1;
+}
+.toggle-label {
+    color: #b6b6b6;
+}
+label {
+    color: #939393 !important;
+}
+.suggestionsLink.slickremix-title {
+    color: #ffffff;
+}
+span.slickremix-logo:before {
+    color: #f0f0f0;
+}
+.switch-description {
+    color: #f0f0f0;
+}
+.tab {
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #e0e0e0;
+}
+.settings-content {
+    background-color: #ececf1;
+}
+.suggestion {
+    background: #40414f;
+    color:#dbdbdb
+}
+.tabcontent h3 {
+    color: #f9f8f8;
+}
+.suggestion.user-input {
+    background: #202123;
+}
+#suggestions-tab .content {
+    background: #40414f;
+}
+textarea {
+    border: 1px solid #e0e0e0;
+    color:#d7d7d7
+}
+.copied-overlay {
+    color: #ececf1;
+}
+.dot {
+    background-color: #ececf1;
+}
+#githubUrlContainer .helper-text {
+    color: #ececf1
+}
+.switch-wrap {
+    background: #444654;
+}
+.prompt-wrap {
+    background: #444654;
+}
+.material-tooltip {
+    background: #2e313b;
+}
+.settings-menu li {
+    background: #202123;
+}
+#custom-context-menu {
+    background-color: #202123;
+}
+#changelog-container {
+    color: #fff;
+    border-top: 1px dashed #4f5052;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #202123 inset !important;
+    /*use inset box-shadow to cover background-color*/
+    -webkit-text-fill-color: #ffffff !important;
+    /*use text fill color to cover font color*/
+}
+#custom-context-menu-settings-tab input:-webkit-autofill,
+#custom-context-menu-settings-tab textarea:-webkit-autofill,
+#custom-context-menu-settings-tab select:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #444654 inset !important;
+    /*use inset box-shadow to cover background-color*/
+}
